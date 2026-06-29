@@ -1,0 +1,18 @@
+Name: Thirupathi Sindhu
+
+Email: sindhu@gmail.com
+
+Phone: 9876543210
+
+Location: Hyderabad, India
+
+Skills:
+Python
+Java
+SQL
+
+Experience:
+Software Engineer at ABC Technologies
+
+Education:
+B.Tech in Computer Science
