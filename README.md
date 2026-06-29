@@ -1,4 +1,5 @@
 # Eightfold Candidate Data Transformer
+A Python application that merges candidate information from multiple souces, standardizes the data, resolves conflicts, and generates a clean JSON profile.
 
 ## How to Run
 
